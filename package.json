@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Example typescript",
+  "main": "app.js",
+  "dependencies": {
+    "common-js": "^0.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoriaDamian17/typescript.git"
+  },
+  "author": "Damian Soria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoriaDamian17/typescript/issues"
+  },
+  "homepage": "https://github.com/SoriaDamian17/typescript#readme"
+}
